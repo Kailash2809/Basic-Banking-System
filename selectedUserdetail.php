@@ -126,7 +126,6 @@ if(isset($_POST['submit']))
 .logo {
     width: 203px;
     height: 88px;
-    /* margin-top: -2.5rem; */
   }
   th {
     font-family: 'Times New Roman';
