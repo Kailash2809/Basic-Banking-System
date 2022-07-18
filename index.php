@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Banking System</title>
-    <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"> -->
     <style type="text/css">
     
     .main-img{
@@ -60,7 +59,6 @@
       text-align:center ;
     }
 	.mo{
-		 /* background-color:greenyellow; */
 		  padding: 50px 50px;
 		   margin: 10% 20%;
 	}
