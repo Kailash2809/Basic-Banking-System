@@ -70,14 +70,12 @@
 		font-size:25px;
 	}
   h2{
-/* text-decoration: underline; */
 font-family: sans-serif;
 color: white;
 font-weight: bold;
 font-family: Times New Roman;
 }
 th{
-  /* text-decoration: underline; */
   color: white;
   font-family: Times New Roman;
 }
