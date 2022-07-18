@@ -13,7 +13,6 @@
   }
           body {
         background-image: url("images/home-img.jpg");
-      /* background-size: cover; */
       
       }
     .logo-text{
@@ -42,7 +41,6 @@
     }
     h2{
       text-align: center;
-      /* margin-top: 5px; */
       text-decoration: none;
       font-family: sans-serif;
       color: #000dff;
