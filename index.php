@@ -99,7 +99,7 @@
   <body>
     <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
  
-      <marquee class="marquee-head"> Welcome to Sahu Bank </marquee>
+      <marquee class="marquee-head">Welcome to Sahu Bank. The final and truest Destination for all your Banking Solutions. </marquee>
   <img src="images/logo.png" class="logo">
   </nav>
   
